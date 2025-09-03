@@ -21,3 +21,5 @@ vocaliStringa(word);
 
 
 //Risultato atteso se si passa 'javascript': 3 (a, a, i)
+
+// Esercizio fatto
