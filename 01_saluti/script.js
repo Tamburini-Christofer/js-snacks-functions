@@ -12,3 +12,5 @@ saluto (userName);
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
+
+//esercizio fatto
