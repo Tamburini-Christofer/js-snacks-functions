@@ -19,3 +19,5 @@ soloLetteraA (names);
 
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
+
+// Esercizio completato
